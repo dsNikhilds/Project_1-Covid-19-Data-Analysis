@@ -7,7 +7,7 @@ Covid-19 Data : https://www.kaggle.com/sumitgrover25/covid-descriptive-analysis-
 This data set includes information about the Covid-19 confirmed,recovered and deaths cases in different states and region all around the world.
 __________________________________________________________________________________
 
-DATA STRUCTURE:
+Data structure:
 This csv file include 321 rows and 6 coloumns.
 __________________________________________________________________________________
 
